@@ -1,0 +1,9 @@
+/*BASIC STYLING*/
+
+html{
+    scroll-behavior: smooth;
+}
+body{
+    box-sizing: border-box;
+
+}
